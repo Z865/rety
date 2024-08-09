@@ -1,0 +1,21 @@
+html{
+    text-align: center;
+    font-style: italic;
+
+}
+
+body{
+    margin: auto;
+    font-size: 25px;
+    width: 50%;
+}
+
+button{
+    background-color: darkblue;
+    color: white;
+    font-size: 20px;
+    width: 20%;
+    height: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
